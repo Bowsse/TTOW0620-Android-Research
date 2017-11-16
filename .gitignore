@@ -11,3 +11,5 @@
 .keystore.properties
 android.jks
 keystore.properties
+/Haveadrink/android.jks
+/Haveadrink/keystore.properties
