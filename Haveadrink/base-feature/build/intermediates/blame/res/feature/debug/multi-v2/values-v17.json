@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Koulu\\mobiili\\inappbilling\\Haveadrink\\base-feature\\build\\intermediates\\incremental\\mergeDebugFeatureResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "D:\\Koulu\\mobiili\\inappbilling\\Haveadrink\\shared-module\\build\\intermediates\\bundles\\debug\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "668"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jaakko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\6632edd6c79dc561ddc69326aa07a842\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
+                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
+                    },
+                    "to": {
+                        "startLines": "12,15,19,22,25,28,32,36,39,42,45,49,52,56",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "673,846,1074,1232,1382,1554,1782,2024,2195,2369,2538,2811,3011,3215",
+                        "endLines": "14,18,21,24,27,31,35,38,41,44,48,51,55,59",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "841,1069,1227,1377,1549,1777,2019,2190,2364,2533,2806,3006,3210,3539"
+                    }
+                }
+            ]
+        }
+    ]
+}

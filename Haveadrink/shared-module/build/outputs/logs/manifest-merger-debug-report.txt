@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml:17:1-20:12
+INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml:17:1-20:12
+INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml:17:1-20:12
+	package
+		ADDED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml:19:5-40
+		INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+		INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml:17:11-69
+	android:targetSandboxVersion
+		ADDED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml:18:5-37
+uses-sdk
+INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+		ADDED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+		INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+		ADDED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml
+		INJECTED from D:\Koulu\mobiili\inappbilling\Haveadrink\shared-module\src\main\AndroidManifest.xml

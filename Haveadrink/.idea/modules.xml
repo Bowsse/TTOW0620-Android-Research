@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Haveadrink.iml" filepath="$PROJECT_DIR$/Haveadrink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-feature/base-feature.iml" filepath="$PROJECT_DIR$/base-feature/base-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared-module/shared-module.iml" filepath="$PROJECT_DIR$/shared-module/shared-module.iml" />
+    </modules>
+  </component>
+</project>

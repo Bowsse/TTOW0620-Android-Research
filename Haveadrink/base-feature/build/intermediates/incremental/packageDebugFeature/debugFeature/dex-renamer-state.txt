@@ -1,0 +1,4 @@
+#Thu Nov 16 07:36:20 EET 2017
+base.0=D\:\\Koulu\\mobiili\\inappbilling\\Haveadrink\\base-feature\\build\\intermediates\\transforms\\dexMerger\\feature\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Koulu\\mobiili\\inappbilling\\Haveadrink\\base-feature\\build\\intermediates\\transforms\\dexMerger\\feature\\debug\\0\\classes.dex

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    build-mode="FULL"
+    format="10"
+    plugin-version="3.0.0"
+    timestamp="1510810537260"
+    verifier="NOT_RUN" >
+
+    <task
+        name="javac"
+        duration="2627" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\Koulu\mobiili\inappbilling\Haveadrink\base-feature\build\outputs\apk\feature\debug\base-feature-debug.apk"
+        type="MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1510810537260"
+        verifier="NOT_RUN" >
+        <artifact
+            location="D:\Koulu\mobiili\inappbilling\Haveadrink\base-feature\build\outputs\apk\feature\debug\base-feature-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Koulu\mobiili\inappbilling\Haveadrink\base-feature\src\main\assets"/><source path="D:\Koulu\mobiili\inappbilling\Haveadrink\base-feature\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Koulu\mobiili\inappbilling\Haveadrink\base-feature\src\debug\assets"/></dataSet></merger>
