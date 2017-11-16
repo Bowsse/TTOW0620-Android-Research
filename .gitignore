@@ -9,3 +9,5 @@
 .externalNativeBuild
 .android.jks
 .keystore.properties
+android.jks
+keystore.properties
